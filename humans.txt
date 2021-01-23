@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Manish Mishra manish@manish.com ph1n34s
 
 # THANKS
 
