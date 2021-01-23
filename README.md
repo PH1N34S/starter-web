@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repo has been forked from scm-ninja/starter-web repo, it is a part of udemy course. Heppy Learning
+This repo has been forked from scm-ninja/starter-web repo, it is a part of udemy course. Happy Learning
 
 ## Introduction
 
